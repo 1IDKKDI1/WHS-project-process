@@ -1,28 +1,27 @@
 ctf
-1.-OOO
-  web-OO
-2.-OOO
-  web-OO
+total 3 challenges solved
+1. 1337up live ctf
+  web - 02
+2. square ctf 2023
+  web - 01
 
 
-wargame-dreamhack
-lv0.total 00
-  web-
-  pwn-OO
-  rev-OO
-lv1.total OO
-  web-OO
-  pwn-OO
-  rev-OO
-lv2.total OO
-  web-OO
-  pwn-OO
-  rev-OO
-lv3.total OO
-  web-OO
-  pwn-OO
-  rev-OO
+wargame - dreamhack
+total 34 challenges solved
+lv0. 01 challenge
+  rev - 01 
+lv1. 16 challenges
+  web - 04
+  pwn - 07
+  rev - 04
+  mis - 01
+lv2. 16 challenges
+  web - 14
+  rev - 02
+lv3. 01 challenge
+  rev - 01
 
-baekjoon
-bronze-OO
-silver-OO
+algorithm - solved.ac
+total 23 challenges
+bronze - 20 
+silver - 03 
